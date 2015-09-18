@@ -1,0 +1,5 @@
+This is a private key in hex:   [12fb5947cd6214c08dbe0869e76464e850a399d1d359d4f
+ac32ddc3bbcf1a4d0]
+This is a public key in hex:    [034b83c7f0dab8e12141cefd19b3a1ebb124b07ba5e4155
+c3f850d196e42a7003a]
+This is the associated Bitcoin address: [12wWQWZzfTdQSfhZeJDVJFWaiQWDRZHE6o]
